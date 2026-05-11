@@ -69,22 +69,27 @@ I specialize in architecting scalable, high-performance Flutter applications and
 <p><a href="https://play.google.com/store/apps/details?id=com.quick.wash.user" target="_blank"><img alt="Google Play" 
 src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://apps.apple.com/us/app/%D8%A7%D9%84%D8%BA%D8%B3%D9%8A%D9%84-%D8%A7%D9%84%D8%B3%D8%B1%D9%8A%D8%B9/id6504152286" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
 
+
 <hr>
+
 
 ### Quick Wash Employee |  الغسيل السريع للموظف
 نظام مخصص لإدارة طلبات غسيل السيارات بسهولة وكفاءة، حيث يتيح للموظف استقبال الطلبات الجديدة ومراجعتها مع إمكانية قبول أو رفض الطلبات بشكل مباشر من خلال التطبيق.
 
 كما يوفر التطبيق سجلًا كاملًا للطلبات السابقة (History) لمتابعة جميع العمليات التي تم تنفيذها، بالإضافة إلى عرض تفاصيل المعاملات المالية والتحويلات التي تتم على المحفظة الخاصة بالموظف، مما يساعد على متابعة الأرباح والحركات المالية بكل شفافية وتنظيم.
 
+
+
 <p><a href="https://play.google.com/store/apps/details?id=com.quick.wash.emp" target="_blank"><img alt="Google Play" 
 src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://apps.apple.com/us/app/%D8%A7%D9%84%D8%BA%D8%B3%D9%8A%D9%84-%D8%A7%D9%84%D8%B3%D8%B1%D9%8A%D8%B9/id6504152286" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
 
+
 <hr>
 
-### Torido | توريدو
-It is an application that serves a large segment of users of light transport trucks of all kinds (Dina) and provides service to the customer and service providers by facilitating obtaining several prices and the best transportation price and also the best offers provided to the service provider and the application works to complete the request with ease and comfort To the customer and the service provider at a satisfactory price
 
-هو عبارة عن تطبيق يخدم شريحة كبيرة من مستخدمي شاحنات النقل الخفيف بجميع انواعها ( دينا ) ويقدم الخدمة للعميل و مقدمي الخدمة عن طريق تسهيل الحصول علي عدة تسعيرات و افضل سعر نقل و ايضاً افضل العروض المقدمة لمقدم الخدمة و يعمل التطبيق علي انجاز الطلب بكل سهولة وراحة للعميل ومقدم الخدمة باسعار ترضي الجميع
+### Torido | توريدو
+
+هو عبارة عن تطبيق يخدم شريحة كبيرة من مستخدمي شاحنات النقل الخفيف بجميع انواعها ( ديينا ) ويقدم الخدمة للعميل و مقدمي الخدمة عن طريق تسهيل الحصول علي عدة تسعيرات و افضل سعر نقل و ايضاً افضل العروض المقدمة لمقدم الخدمة و يعمل التطبيق علي انجاز الطلب بكل سهولة وراحة للعميل ومقدم الخدمة باسعار ترضي الجميع
 
 
 
@@ -95,9 +100,8 @@ It is an application that serves a large segment of users of light transport tru
 
 ### Torido Naqel | توريدو ناقل
 
-It is an application that serves a large segment of users of light transport trucks of all kinds (Dina) and provides service to the customer and service providers by facilitating obtaining several prices and the best transportation price and also the best offers provided to the service provider and the application works to complete the request with ease and comfort To the customer and the service provider at a satisfactory price
 
-هو عبارة عن تطبيق يخدم شريحة كبيرة من مستخدمي شاحنات النقل الخفيف بجميع انواعها ( دينا ) ويقدم الخدمة للعميل و مقدمي الخدمة عن طريق تسهيل الحصول علي عدة تسعيرات و افضل سعر نقل و ايضاً افضل العروض المقدمة لمقدم الخدمة و يعمل التطبيق علي انجاز الطلب بكل سهولة وراحة للعميل ومقدم الخدمة باسعار ترضي الجميع
+هو عبارة عن تطبيق يخدم شريحة كبيرة من مستخدمي شاحنات النقل الخفيف بجميع انواعها ( ديينا ) ويقدم الخدمة للعميل و مقدمي الخدمة عن طريق تسهيل الحصول علي عدة تسعيرات و افضل سعر نقل و ايضاً افضل العروض المقدمة لمقدم الخدمة و يعمل التطبيق علي انجاز الطلب بكل سهولة وراحة للعميل ومقدم الخدمة باسعار ترضي الجميع
 
 
 <p><a href="https://play.google.com/store/apps/details?id=com.torido.driver" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://apps.apple.com/ug/app/torido-naqel-%D8%AA%D9%88%D8%B1%D9%8A%D8%AF%D9%88-%D9%86%D8%A7%D9%82%D9%84/id1554352273" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
@@ -106,24 +110,18 @@ It is an application that serves a large segment of users of light transport tru
 
 
 
-### REDF
-An application affiliated with the Real Estate Development Fund in Saudi Arabia. The application aims to facilitate the work of the legal management system of the Real Estate Development Fund. 
-The application includes several internal services for the organization:
-- Cases Service
-- Legal Consulting and Document Management Service
-- Task Management
-- General Settings
+### Siwaan | صيوان
 
-تطبيق تابع لصندوق التنمية العقارية بالسعودية. يهدف التطبيق إلى تسهيل عمل نظام الإدارة القانونية لصندوق التنمية العقارية. 
-يتضمن التطبيق العديد من الخدمات الداخلية للمؤسسة:
-- خدمة القضايا
-- خدمة الاستشارات القانونية وإدارة الوثائق
-- إدارة المهام
-- الإعدادات العامة
+
+صيوان هو تطبيق مجتمعي متكامل يهدف إلى ربط السكان بالخدمات المحلية اليومية في منصة واحدة سهلة الاستخدام. يوفر التطبيق خدمات متعددة تشمل توصيل الطعام والبقالة، خدمات النقل، وحلول الصيانة المنزلية، مما يساعد المستخدمين على الوصول إلى احتياجاتهم بسرعة وراحة.
+
+كما يقدم صيوان تجربة اجتماعية تفاعلية من خلال الدردشة، الأخبار المحلية، والمنتديات المجتمعية التي تعزز التواصل بين السكان، بالإضافة إلى إمكانية حجز الخدمات وإتمام عمليات الدفع بشكل آمن مع إشعارات فورية لمتابعة جميع الطلبات والخدمات بسهولة.
+يعمل صيوان على بناء مجتمع مترابط يجمع بين الخدمات الذكية والتواصل الاجتماعي لتوفير تجربة حياة يومية أكثر سهولة وتنظيمًا.
 
 <p>
 
-  <a href="https://play.google.com/store/apps/details?id=com.wakeb.redf" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a>
+<a href="https://play.google.com/store/apps/details?id=com.siwaan.mobile&hl=ar" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a>
+href="https://apps.apple.com/us/app/siwaan/id6749846894" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
   
 <hr>
 

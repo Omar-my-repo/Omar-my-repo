@@ -38,9 +38,9 @@ I specialize in architecting scalable, high-performance Flutter applications and
 
 ### Talbinah | تلبينة
 
-نحــــــــن هنـــــا لدعمــــك في رحلتك نحــو الصـحة النفسيـة والسعـــادة.
-دعنا نساعدك في بناء جسر من الأمل والتفاؤل نحو غدٍ أفضل، حيث يكون السعادة والسلام النفسي هما السمتان السائدتان في حياتك.
-في تلبينة، نجمع بين فريق من الخبراء المتخصصين في مجالات متعددة لتقديم الدعم والإرشاد الشخصي المناسب لكل فرد. سواء كنت بحاجة إلى التوجيه النفسي، العلاج السلوكي، أو أي تخصص آخر، نحن هنا لنساعدك في الطريق نحو الشفاء والتحسين الشامل لحالتك النفسية.
+تلبينة هو تطبيق متكامل للصحة النفسية يهدف إلى دعم الأفراد في رحلتهم نحو التوازن النفسي والسعادة. يتيح التطبيق للمستخدمين حجز جلسات نفسية بسهولة مع نخبة من الأطباء والمتخصصين في مختلف المجالات، مع إمكانية اختيار الطبيب المناسب وفقًا للاحتياجات الشخصية.
+
+كما يوفر التطبيق محتوى تثقيفيًا متنوعًا يشمل البودكاستات والمقالات المتخصصة التي تساعد على تحسين الصحة النفسية، تطوير الذات، والتعامل مع ضغوط الحياة اليومية.
 
 
 <p><a href="https://play.google.com/store/apps/details?id=com.talbinah.talbinah" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://apps.apple.com/eg/app/%D8%AA%D9%84%D8%A8%D9%8A%D9%86%D8%A9-talbinah/id6464413895" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
@@ -49,8 +49,9 @@ I specialize in architecting scalable, high-performance Flutter applications and
 
 ### Talbinah Doctor | تلبينة دكتور
 
-أهلا بكم في تلبينة، مكانكم الأمثل للدعم والعناية بالصحة النفسية! تطبيقنا مصمم خصيصًا للأطباء النفسيين، المعالجين النفسين، العاملين في المجال الاجتماعي والأسري، وأطباء الأسرة. تلبينة هو الجسر بين الخبراء في الصحة النفسية واللذين يحتاجون لدعم ومساعدة. بواجهة سهلة وميزات قوية، تلبينة يسهل عليكم التحدث والتواصل بشكل آمن وفعال، ويوفر لكم مجموعة من الموارد والإرشادات القيّمة. تعالوا نكون يد وحدة لدعم بعض والاهتمام بالصحة النفسية في مجتمعنا!
+منصة متخصصة تجمع نخبة من الأطباء السعوديين لتقديم الدعم والاستشارات النفسية للمستخدمين من خلال جلسات مدفوعة ومجانية بطريقة سهلة وآمنة. يتيح التطبيق للأطباء إدارة الجلسات والتواصل مع الحالات بكفاءة، بما يساهم في تقديم تجربة علاجية احترافية ومريحة.
 
+كما يوفر التطبيق إمكانية ترشيح البودكاستات والمقالات التوعوية المناسبة لكل مستخدم، ونشر المنشورات في مجتمع تلبينه بهدف نشر الوعي النفسي والمساعدة في تحسين الصحة النفسية وتعزيز جودة الحياة.
 
 
 <p><a href="https://play.google.com/store/apps/details?id=com.talbinah.doctor" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://apps.apple.com/us/app/talbinah-doctor/id6465690953" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>

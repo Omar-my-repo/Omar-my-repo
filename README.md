@@ -1,4 +1,4 @@
-<h2> Hi there, I'm Fady Shehata 👋 </h2>
+<h2> Hi there, I'm Omar Muhammed 👋 </h2>
 
 - Mobile Software Engineer
 - Flutter Developer
@@ -6,15 +6,13 @@
 
 <h2> Contact with me on </h2>
 <p> 
-<a href="mailto:fadyshehata40@gmail.com" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/gmail-D14836.svg?style=for-the-badge&logo=GMAIL&logoColor=white" /></a> 
-<a href="https://www.linkedin.com/in/fady-shehata-51aa5828a/" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/linkedin-0077b5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://www.facebook.com/fady.shehata.940" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Facebook-0077b5.svg?style=for-the-badge&logo=facebook&logoColor=white" /></a> 
-<a href="http://Wa.me/201027792738" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/whatsapp-128C7E.svg?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+<a href="mailto:omarMail4Contact@gmail.com" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/gmail-D14836.svg?style=for-the-badge&logo=GMAIL&logoColor=white" /></a> 
+<a href="https://www.linkedin.com/in/omar-muhammad-20b0951b9/" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/linkedin-0077b5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="http://Wa.me/20112605300" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/whatsapp-128C7E.svg?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 <p>
 
 <!-- <p align="left">
-<a href="https://www.linkedin.com/in/fady-shehata-51aa5828a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/fady-shehata-51aa5828a/" height="30" width="40" /></a>
-<a href="https://www.facebook.com/fady.shehata.940/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/fady.shehata.940" height="30" width="40" /></a>   <a href="https://www.facebook.com/fady.shehata.940/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="https://www.facebook.com/fady.shehata.940" height="30" width="38" /></a>
+<a href="https://www.linkedin.com/in/omar-muhammad-20b0951b9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/omar-muhammad-20b0951b9/" height="30" width="40" /></a>
 </p> -->
 
 <hr>

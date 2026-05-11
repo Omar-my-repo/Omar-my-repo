@@ -69,6 +69,17 @@ I specialize in architecting scalable, high-performance Flutter applications and
 <p><a href="https://play.google.com/store/apps/details?id=com.quick.wash.user" target="_blank"><img alt="Google Play" 
 src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://apps.apple.com/us/app/%D8%A7%D9%84%D8%BA%D8%B3%D9%8A%D9%84-%D8%A7%D9%84%D8%B3%D8%B1%D9%8A%D8%B9/id6504152286" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
 
+<hr>
+
+### Quick Wash Employee |  الغسيل السريع للموظف
+نظام مخصص لإدارة طلبات غسيل السيارات بسهولة وكفاءة، حيث يتيح للموظف استقبال الطلبات الجديدة ومراجعتها مع إمكانية قبول أو رفض الطلبات بشكل مباشر من خلال التطبيق.
+
+كما يوفر التطبيق سجلًا كاملًا للطلبات السابقة (History) لمتابعة جميع العمليات التي تم تنفيذها، بالإضافة إلى عرض تفاصيل المعاملات المالية والتحويلات التي تتم على المحفظة الخاصة بالموظف، مما يساعد على متابعة الأرباح والحركات المالية بكل شفافية وتنظيم.
+
+<p><a href="https://play.google.com/store/apps/details?id=com.quick.wash.emp" target="_blank"><img alt="Google Play" 
+src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://apps.apple.com/us/app/%D8%A7%D9%84%D8%BA%D8%B3%D9%8A%D9%84-%D8%A7%D9%84%D8%B3%D8%B1%D9%8A%D8%B9/id6504152286" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
+
+<hr>
 
 ### Torido | توريدو
 It is an application that serves a large segment of users of light transport trucks of all kinds (Dina) and provides service to the customer and service providers by facilitating obtaining several prices and the best transportation price and also the best offers provided to the service provider and the application works to complete the request with ease and comfort To the customer and the service provider at a satisfactory price

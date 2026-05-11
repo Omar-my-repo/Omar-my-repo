@@ -1,19 +1,13 @@
-<h2> Hi there, I'm Omar Muhammed 👋 </h2>
+### Hi there, I'm Amr Hassan 👋
 
-- Mobile Software Engineer
-- Flutter Developer
-<hr>
+**Senior Flutter Developer** 
 
-<h2> Contact with me on </h2>
-<p> 
-<a href="mailto:omarMail4Contact@gmail.com" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/gmail-D14836.svg?style=for-the-badge&logo=GMAIL&logoColor=white" /></a> 
-<a href="https://www.linkedin.com/in/omar-muhammad-20b0951b9/" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/linkedin-0077b5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="http://Wa.me/20112605300" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/whatsapp-128C7E.svg?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
-<p>
+I specialize in architecting scalable, high-performance Flutter applications and mobile ecosystems. With over 5 years of experience, I transform complex business requirements into seamless, pixel-perfect, and secure cross-platform experiences.
 
-<!-- <p align="left">
-<a href="https://www.linkedin.com/in/omar-muhammad-20b0951b9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/omar-muhammad-20b0951b9/" height="30" width="40" /></a>
-</p> -->
+*   🔭 **Currently looking for:** New opportunities as a Senior Flutter Developer (Remote/Hybrid/On-site).
+*   🛠 **Tech Stack:** Flutter, Dart, Kotlin (Native Android), Clean Architecture, MVVM, Bloc, Riverpod.
+*   🚀 **Core Focus:** Super App ecosystems, CI/CD (Codemagic/GitHub Actions), Unit/Widget Testing, and Performance Optimization.
+*   📫 **How to reach me:** [omarMail4Contact@gmail.com](mailto:omarMail4Contact@gmail.com) | [LinkedIn](https://www.linkedin.com/in/omar-muhammad-20b0951b9/) | [Whatsapp](http://Wa.me/201126075300)
 
 <hr>
 

@@ -1,4 +1,4 @@
-### Hi there, I'm Amr Hassan 👋
+### Hi there, I'm Omar Muhammed 👋
 
 **Senior Flutter Developer** 
 

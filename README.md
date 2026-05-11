@@ -58,6 +58,17 @@ I specialize in architecting scalable, high-performance Flutter applications and
 
 <hr>
 
+### Quick Wash | الغسيل السريع
+هو تطبيق ذكي يسهّل على المستخدمين طلب خدمات غسيل السيارات بكل سرعة وراحة. يتيح التطبيق إضافة السيارات الخاصة بالمستخدم وتحديد موقعه أو عنوانه، ثم اختيار أقرب مغسلة مناسبة لتنفيذ الخدمة.
+
+كما يوفر التطبيق أكثر من طريقة لاستلام السيارة، سواء من خلال إرسال مندوب لاستلام السيارة وتوصيلها إلى المغسلة ثم إعادتها بعد الانتهاء، أو إمكانية توجه المستخدم بنفسه إلى أقرب مغسلة تم ترشيحها عبر التطبيق.
+
+يهدف التطبيق إلى توفير تجربة مريحة وسريعة تساعد المستخدمين في الحفاظ على نظافة سياراتهم بأقل مجهود ووقت ممكن.
+
+
+<p><a href="https://play.google.com/store/apps/details?id=com.quick.wash.user" target="_blank"><img alt="Google Play" 
+src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://apps.apple.com/us/app/%D8%A7%D9%84%D8%BA%D8%B3%D9%8A%D9%84-%D8%A7%D9%84%D8%B3%D8%B1%D9%8A%D8%B9/id6504152286" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
+
 
 ### Torido | توريدو
 It is an application that serves a large segment of users of light transport trucks of all kinds (Dina) and provides service to the customer and service providers by facilitating obtaining several prices and the best transportation price and also the best offers provided to the service provider and the application works to complete the request with ease and comfort To the customer and the service provider at a satisfactory price

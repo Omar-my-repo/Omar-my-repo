@@ -118,10 +118,10 @@ src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=f
 كما يقدم صيوان تجربة اجتماعية تفاعلية من خلال الدردشة، الأخبار المحلية، والمنتديات المجتمعية التي تعزز التواصل بين السكان، بالإضافة إلى إمكانية حجز الخدمات وإتمام عمليات الدفع بشكل آمن مع إشعارات فورية لمتابعة جميع الطلبات والخدمات بسهولة.
 يعمل صيوان على بناء مجتمع مترابط يجمع بين الخدمات الذكية والتواصل الاجتماعي لتوفير تجربة حياة يومية أكثر سهولة وتنظيمًا.
 
-<p>
 
-<a href="https://play.google.com/store/apps/details?id=com.siwaan.mobile&hl=ar" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a>
-href="https://apps.apple.com/us/app/siwaan/id6749846894" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
+<p><a href="https://play.google.com/store/apps/details?id=com.siwaan.mobile&hl=ar" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://apps.apple.com/ug/app/siwaan/id6749846894" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
+
+
   
 <hr>
 
